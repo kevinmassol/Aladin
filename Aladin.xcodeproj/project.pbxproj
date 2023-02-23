@@ -10,6 +10,7 @@
 		0A83C9E929A62348006090F0 /* ContactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A83C9E829A62348006090F0 /* ContactView.swift */; };
 		0A83C9EB29A62418006090F0 /* HomePageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A83C9EA29A62418006090F0 /* HomePageView.swift */; };
 		0A83C9ED29A625EF006090F0 /* WishesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A83C9EC29A625EF006090F0 /* WishesView.swift */; };
+		0A83C9EF29A77915006090F0 /* TransformationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A83C9EE29A77915006090F0 /* TransformationView.swift */; };
 		0AA28FF529A3847D007F0872 /* AladinApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AA28FF429A3847D007F0872 /* AladinApp.swift */; };
 		0AA28FF929A3847F007F0872 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AA28FF829A3847F007F0872 /* Assets.xcassets */; };
 		0AA28FFC29A3847F007F0872 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AA28FFB29A3847F007F0872 /* Preview Assets.xcassets */; };
@@ -20,6 +21,7 @@
 		0A83C9E829A62348006090F0 /* ContactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactView.swift; sourceTree = "<group>"; };
 		0A83C9EA29A62418006090F0 /* HomePageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageView.swift; sourceTree = "<group>"; };
 		0A83C9EC29A625EF006090F0 /* WishesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WishesView.swift; sourceTree = "<group>"; };
+		0A83C9EE29A77915006090F0 /* TransformationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransformationView.swift; sourceTree = "<group>"; };
 		0AA28FF129A3847D007F0872 /* Aladin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Aladin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AA28FF429A3847D007F0872 /* AladinApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AladinApp.swift; sourceTree = "<group>"; };
 		0AA28FF829A3847F007F0872 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 				0AA2900229A384A1007F0872 /* HomeView.swift */,
 				0A83C9EC29A625EF006090F0 /* WishesView.swift */,
 				0A83C9E829A62348006090F0 /* ContactView.swift */,
+				0A83C9EE29A77915006090F0 /* TransformationView.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 				0AA2900329A384A1007F0872 /* HomeView.swift in Sources */,
 				0AA28FF529A3847D007F0872 /* AladinApp.swift in Sources */,
 				0A83C9E929A62348006090F0 /* ContactView.swift in Sources */,
+				0A83C9EF29A77915006090F0 /* TransformationView.swift in Sources */,
 				0A83C9EB29A62418006090F0 /* HomePageView.swift in Sources */,
 				0A83C9ED29A625EF006090F0 /* WishesView.swift in Sources */,
 			);
